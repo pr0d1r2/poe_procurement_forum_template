@@ -1,0 +1,107 @@
+Welcome to my shop(Last Updated {LastUpdated}),
+
+Please message me ingame if something catches your eye. My IGN is {IGN}.
+
+If you don't like a price feel free to make an offer.
+Don't have the currency I'm asking for?
+Offer me equivalent (please tell me before putting a pile of random currency).
+
+
+[spoiler=" Not Yet Sorted Gear "]
+{Stash:ToSell}
+[/spoiler]
+
+
+[spoiler=" Featured Gear "]
+{Stash:b/o}
+[/spoiler]
+[spoiler="	~b/o 3 exalted Gear	"]
+{Stash:3ex}
+[/spoiler]
+[spoiler="	~b/o 2 exalted Gear	"]
+{Stash:2ex}
+[/spoiler]
+[spoiler="	~b/o 1.5 exalted Gear	"]
+{Stash:1.5ex}
+[/spoiler]
+[spoiler="	~b/o 1 exalted Gear	"]
+{Stash:1Ex}
+[/spoiler]
+[spoiler="	~b/o 25 chaos Gear	"]
+{Stash:25c}
+[/spoiler]
+[spoiler="	~b/o 20 chaos Gear	"]
+{Stash:20c}
+[/spoiler]
+[spoiler="	~b/o 19 chaos Gear	"]
+{Stash:19c}
+[/spoiler]
+[spoiler="	~b/o 18 chaos Gear	"]
+{Stash:18c}
+[/spoiler]
+[spoiler="	~b/o 17 chaos Gear	"]
+{Stash:17c}
+[/spoiler]
+[spoiler="	~b/o 16 chaos Gear	"]
+{Stash:16c}
+[/spoiler]
+[spoiler="	~b/o 15 chaos Gear	"]
+{Stash:15c}
+[/spoiler]
+[spoiler="	~b/o 14 chaos Gear	"]
+{Stash:14c}
+[/spoiler]
+[spoiler="	~b/o 13 chaos Gear	"]
+{Stash:13c}
+[/spoiler]
+[spoiler="	~b/o 12 chaos Gear	"]
+{Stash:12c}
+[/spoiler]
+[spoiler="	~b/o 11 chaos Gear	"]
+{Stash:11c}
+[/spoiler]
+[spoiler="	~b/o 10 chaos Gear	"]
+{Stash:10c}
+[/spoiler]
+[spoiler="	~b/o 9 chaos Gear	"]
+{Stash:9c}
+[/spoiler]
+[spoiler="	~b/o 8 chaos Gear	"]
+{Stash:8c}
+[/spoiler]
+[spoiler="	~b/o 7 chaos Gear	"]
+{Stash:7c}
+[/spoiler]
+[spoiler="	~b/o 6 chaos Gear	"]
+{Stash:6c}
+[/spoiler]
+[spoiler="	~b/o 5 chaos Gear	"]
+{Stash:5c}
+[/spoiler]
+[spoiler="	~b/o 4 chaos Gear	"]
+{Stash:4c}
+[/spoiler]
+[spoiler="	~b/o 3 chaos Gear	"]
+{Stash:3c}
+[/spoiler]
+[spoiler="	~b/o 2 chaos Gear	"]
+{Stash:2c}
+[/spoiler]
+[spoiler="	~b/o 1.5 chaos	"]
+{Stash:1.5c}
+[/spoiler]
+[spoiler="	~b/o 1 chaos Gear	"]
+{Stash:1c}
+[/spoiler]
+[spoiler="	~b/o 1 alchemy	"]
+{Stash:1a}
+[/spoiler]
+[spoiler="	~b/o 1 chaos	"]
+{Stash:Uc}
+[/spoiler]
+[spoiler="	Uniques as Priced   "]
+{Stash:U}
+[/spoiler]
+[spoiler="	~b/o 1 chisel Bargain Uniques and gems	"]
+{Stash:1chis}
+[/spoiler]
